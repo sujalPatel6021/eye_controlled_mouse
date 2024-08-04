@@ -72,3 +72,35 @@ python main.py
   <li>Ensure your webcam is working.</li>
   <li>Follow the instructions on the screen to control the mouse with your eyes.</li>
 </ol>
+<br>
+<br>
+<h2>Technologies Used</h2>
+<ul>
+  <li><strong>OpenCV:</strong> For real-time computer vision.</li>
+  <li><strong>MediaPipe:</strong> For facial landmark detection</li>
+  <li><strong>PyAutoGUI:</strong> For controlling the mouse cursor</li>
+</ul>
+<br>
+<br>
+<h2>Contributing</h2>
+<p style="font-size: 18px;">Contributions are welcome! To contribute:</p>
+<ul style="font-size: 16px;">
+  <li>Fork the repository.</li>
+  <li>Create a new branch</li>
+  <li>Commit your changes</li>
+  <li>Push to the branch</li>
+  <li>Create a pull request.</li>
+</ul>
+<p style="font-size: 16px;">Please ensure your code adheres to our coding standards and is well-documented.</p>
+<br>
+<br>
+<h2>License</h2>
+<p style="font-size: 16px;">This project is licensed under the MIT License.</p>
+<br>
+<br>
+<h2>Acknowledgments</h2>
+<p style="font-size: 16px;">This project was inspired by various online tools and community suggestions. Thanks to all contributors and users for their support and feedback.</p>
+<br>
+<br>
+<h2>Contact</h2>
+<p style="font-size: 16px;">For any questions or suggestions, please open an issue or contact [sujalpatel6021@gmail.com].</p>
